@@ -24,11 +24,3 @@ Gerenciamento de Sessão: Login e logout eficazes, preservando o estado do usuá
 Validação de Entradas: Garantir formato correto do e-mail e senha.
 Adicionar novas telas
 Melhoria no Design
-
-
-![image](https://github.com/user-attachments/assets/a599d4cf-142e-4e0d-86ff-d20b52c37c5d)
-
-![image](https://github.com/user-attachments/assets/58f80cf8-2690-48c4-b0bc-f3c8a0e9ca84)
-
-
-
