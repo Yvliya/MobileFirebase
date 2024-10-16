@@ -37,7 +37,7 @@ O **NoteSync** é um aplicativo mobile desenvolvido em **Java** que permite a cr
 
 - **Botões**:
   - **Esqueci a senha**: Redireciona para a página de recuperação de senha.
-  - **Login**: Botão azul que autentica o usuário com as credenciais inseridas.
+  - **Login**: Botão azul que autentica o usuário com as credenciais inseridas e direciona o usuário para a tela inicial.
   - **Cadastre-se**: Botão dourado que leva o usuário para a página de cadastro.
 
 ![Tela de Login](https://github.com/user-attachments/assets/d651c11a-5cf6-420f-afc7-a3d8b849be1b)
