@@ -1,7 +1,3 @@
-Aqui está uma reformulação do texto para que você possa usar no GitHub:
-
----
-
 # 📝 NoteSync - Aplicativo de Anotações com Firebase
 
 ## Descrição do Projeto
@@ -80,7 +76,3 @@ O **NoteSync** é um aplicativo mobile desenvolvido em **Java** que permite a cr
   - **Logout**: Botão com ícone representando saída que redireciona para a tela de login.
 
 ![Tela Inicial](https://github.com/user-attachments/assets/1a402ce6-2109-4dec-adc6-038fd0cfd4f0)
-
----
-
-Sinta-se à vontade para fazer ajustes ou adições! Se precisar de mais alguma coisa, é só avisar.
